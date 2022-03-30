@@ -21,4 +21,6 @@ if __name__ == '__main__':
 
 # Deze wijziging is op de server gemaakt
 
+# Deze wijziging is van Henzel
+
 # En deze weer terug naar server
