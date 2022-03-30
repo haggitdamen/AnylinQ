@@ -18,3 +18,5 @@ if __name__ == '__main__':
 # Wijziging
 
 # Wijziging 2e
+
+# Deze wijziging is op de server gemaakt
