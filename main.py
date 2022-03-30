@@ -20,3 +20,5 @@ if __name__ == '__main__':
 # Wijziging 2e
 
 # Deze wijziging is op de server gemaakt
+
+# En deze weer terug naar server
